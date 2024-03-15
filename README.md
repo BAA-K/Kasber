@@ -1,2 +1,3 @@
-# Kasber
-Front-end Template-2
+# Kasbar
+
+Kasbar is a front-end template-2. This is a simple template built with HTML and CSS.
